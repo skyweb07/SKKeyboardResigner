@@ -1,6 +1,6 @@
 # SKKeyboardResigner
 
-[![CI Status](http://img.shields.io/travis/skyweb07/SKKeyboardResigner.svg?style=flat)](https://travis-ci.org/Oscar Duran/SKKeyboardResigner)
+[![CI Status](http://img.shields.io/travis/skyweb07/SKKeyboardResigner.svg?style=flat)](https://travis-ci.org/skyweb07/SKKeyboardResigner)
 [![Version](https://img.shields.io/cocoapods/v/SKKeyboardResigner.svg?style=flat)](http://cocoapods.org/pods/SKKeyboardResigner)
 [![License](https://img.shields.io/cocoapods/l/SKKeyboardResigner.svg?style=flat)](http://cocoapods.org/pods/SKKeyboardResigner)
 [![Platform](https://img.shields.io/cocoapods/p/SKKeyboardResigner.svg?style=flat)](http://cocoapods.org/pods/SKKeyboardResigner)
