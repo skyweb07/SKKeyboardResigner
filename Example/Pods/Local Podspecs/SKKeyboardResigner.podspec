@@ -1,11 +1,15 @@
 Pod::Spec.new do |s|
   s.name             = "SKKeyboardResigner"
   s.version          = "0.1.0"
-  s.summary          = "SKKeyboardResigner can resign the keyboard responder for you."
+  s.summary          = "A short description of SKKeyboardResigner."
   s.description      = <<-DESC
-                       With SKKeyboardResigner you can forget about resigning the keyboard by yourself by adding a big button inside a view or doing some 'ñapas' like that. This library takes care of resigning the keyboard for the view you want without doing nothing.
+                       An optional longer description of SKKeyboardResigner
+
+                       * Markdown format.
+                       * Don't worry about the indent, we strip it!
                        DESC
   s.homepage         = "https://github.com/skyweb07/SKKeyboardResigner"
+  # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Oscar Duran" => "skyweb09@hotmail.es" }
   s.source           = { :git => "https://github.com/skyweb07/SKKeyboardResigner.git", :tag => s.version.to_s }
@@ -18,5 +22,6 @@ Pod::Spec.new do |s|
   s.resource_bundles = {
     'SKKeyboardResigner' => ['Pod/Assets/*.png']
   }
-  s.frameworks = 'UIKit', 'Foundation'
+
+  s.frameworks = 'UIKit'
 end

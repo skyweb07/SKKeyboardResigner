@@ -5,7 +5,5 @@ target 'SKKeyboardResigner', :exclusive => true do
 end
 
 target 'Tests', :exclusive => true do
-  pod "SKKeyboardResigner", :path => "../"
-
-  
+  pod "SKKeyboardResigner", :path => "../"  
 end

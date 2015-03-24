@@ -1,0 +1,14 @@
+PODS:
+  - SKKeyboardResigner (0.1.0)
+
+DEPENDENCIES:
+  - SKKeyboardResigner (from `../`)
+
+EXTERNAL SOURCES:
+  SKKeyboardResigner:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SKKeyboardResigner: 7c56ac4821f1514c07bac955469e139536534e7f
+
+COCOAPODS: 0.34.1
