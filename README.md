@@ -19,7 +19,7 @@ Set your UITextFields inside a view container and set the View to subclass SKKey
 2.
 You can directly call the SKKeyboardResigner class methods:
 
-![alt text](https://github.com/skyweb07/SKKeyboardResigner/Resources/subclass_sample.png "Subclass sample")
+![alt text](https://github.com/skyweb07/SKKeyboardResigner/blob/master/Resources/subclass_sample.png?raw=true"Subclass sample")
 
 ```objective-c
 [SKKeyboardResigner attachObserverToView:viewToObserve]; // If you only want to observe that View UITextFields subviews
