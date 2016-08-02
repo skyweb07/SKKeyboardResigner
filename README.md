@@ -11,15 +11,15 @@ With SKKeyboardResigner you can forget about resigning the keyboard by yourself 
 
 ## Usage
 
-There are two ways of using this library
+There are two ways of using this library:
 
 1.
 Set your UITextFields inside a view container and set the View to subclass SKKeyboardResignerView
 
-2.
-You can directly call the SKKeyboardResigner class methods:
-
 ![alt text](https://github.com/skyweb07/SKKeyboardResigner/blob/master/Resources/subclass_sample.png?raw=true"Subclass sample")
+
+2.
+You can directly call the SKKeyboardResigner class methods in one of two ways:
 
 ```objective-c
 [SKKeyboardResigner attachObserverToView:viewToObserve]; // If you only want to observe that View UITextFields subviews
